@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repertoire>
+  <contact numeroContact="1">
+    <categorie>ami</categorie>
+    <prenom>khalifa</prenom>
+    <nom>sene</nom>
+    <telephone>771510304</telephone>
+    <email>khalifa@sene.com</email>
+  </contact>
+  <contact numeroContact="2">
+    <categorie>ami</categorie>
+    <prenom>Lamarana</prenom>
+    <nom>Diallo</nom>
+    <telephone>+221-78-777-77-77</telephone>
+    <email>lamarana@diallo.com</email>
+  </contact>
+  <contact numeroContact="3">
+    <categorie>famille</categorie>
+    <prenom>Babacar</prenom>
+    <nom>Sene</nom>
+    <telephone>+221-77-372-33-34</telephone>
+    <email>jackuro@gmail.com</email>
+  </contact>
+  <contact numeroContact="4">
+    <categorie>ami</categorie>
+    <prenom>mané</prenom>
+    <nom>faye</nom>
+    <telephone>+221-76-368-04-59</telephone>
+  </contact>
+</repertoire>
